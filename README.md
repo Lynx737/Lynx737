@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lynx737
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning html css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 0541668524 whatsapp
 
